@@ -4,6 +4,10 @@ private String nama;
 private String asal;
 
 
+public nama (){
+
+}
+
 
 
 
